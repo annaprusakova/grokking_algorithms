@@ -1,0 +1,16 @@
+{
+  "name": "grokking_algorithms",
+  "version": "1.0.0",
+  "description": "\"Grokking Algorithms\" by Aditya Bhargava with TypeScript solutions",
+  "main": "index.js",
+  "scripts": {
+    "start:binarySearch": "nodemon ./01_binary_search.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.2.0",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2"
+  }
+}
